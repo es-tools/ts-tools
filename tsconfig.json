@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5", // commonjs 、 amd 、 umd 、 system 、 es6 、 es2015
+    "jsx": "React",
+    "jsxFactory": "React.createElement",
+    "sourceMap": true,
+    "baseUrl": "./",
+    "paths": {}
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}
