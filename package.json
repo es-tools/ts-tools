@@ -1,0 +1,24 @@
+{
+  "name": "x-ts-tools",
+  "version": "0.0.0-alpha.0",
+  "description": "typescript 编写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/es-tools/ts-tools.git"
+  },
+  "keywords": [
+    "js-tools",
+    "es-tools",
+    "ts-tools"
+  ],
+  "author": "Sayll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/es-tools/ts-tools/issues"
+  },
+  "homepage": "https://github.com/es-tools/ts-tools#readme"
+}
