@@ -1,0 +1,1 @@
+{"code":"import * as dom from './lib/dom';\r\nimport * as tt from './tt';\r\nexport { dom, tt };\r\n//# sourceMappingURL=index.js.map","map":"{\"version\":3,\"file\":\"index.js\",\"sourceRoot\":\"\",\"sources\":[\"src/index.ts\"],\"names\":[],\"mappings\":\"AAAA,OAAO,KAAK,GAAG,MAAM,WAAW,CAAA;AAChC,OAAO,KAAK,EAAE,MAAM,MAAM,CAAA;AAE1B,OAAO,EAAE,GAAG,EAAE,EAAE,EAAE,CAAA\"}"}

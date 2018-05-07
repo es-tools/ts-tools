@@ -1,4 +1,5 @@
 {
+  "name": "dom",
   "main": "./dom.ts",
   "types": "./dom.ts"
 }

@@ -1,0 +1,1 @@
+{"code":"import * as dom from './dom';\r\nexport default { dom };\r\n//# sourceMappingURL=index.js.map","map":"{\"version\":3,\"file\":\"index.js\",\"sourceRoot\":\"\",\"sources\":[\"src/index.ts\"],\"names\":[],\"mappings\":\"AAAA,OAAO,KAAK,GAAG,MAAM,OAAO,CAAA;AAE5B,eAAe,EAAC,GAAG,EAAC,CAAA\"}"}

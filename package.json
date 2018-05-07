@@ -1,12 +1,20 @@
 {
-  "name": "x-ts-tools",
-  "version": "0.0.0-alpha.0",
+  "name": "x-tools",
+  "version": "0.0.0-alpha.1",
   "description": "typescript 编写",
-  "main": "index.js",
+  "main": "./dist",
+  "types": "./src",
+  "files": [
+    "src",
+    "dist",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "deploy": "npm run build:prod",
     "build:dev": "rollup -c scripts/rollup/rollup.dev.js -w",
-    "build:prod": "rollup -c scripts/rollup/rollup.prod.js",
+    "build:prod": "digo deploy",
     "bundle": "rollup -c scripts/rollup/rollup.prod.js -e 'bundle'"
   },
   "repository": {
@@ -14,6 +22,7 @@
     "url": "git+https://github.com/es-tools/ts-tools.git"
   },
   "keywords": [
+    "x-tools",
     "js-tools",
     "es-tools",
     "ts-tools"
